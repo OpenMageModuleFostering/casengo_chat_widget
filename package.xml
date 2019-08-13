@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<package>
+    <name>Casengo_Chat_Widget</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/GPL-3.0">GNU General Public License</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This plugin adds the Casengo chat widget to every page of your Magento website or blog.&#xD;
+</summary>
+    <description>Casengo helps you to respond to customers faster than ever and improve their satisfaction with a groovy mixture of real-time chat and email.&#xD;
+&#xD;
+But using Casengo just for chat would be a waste of a smart all-in-one application. With Casengo you can manage your customer enquiries via phone, email, chat or social media - the choice is yours. &#xD;
+&#xD;
+The Casengo plugin features:&#xD;
+- Customisable chat widget for your blog or website&#xD;
+- Intuitive pre-chat screening. Every chat session requires your online visitors to input the subject of their query. Based on information you added to your knowledge base, possible answers to this query will be displayed on the chat screen. If no satisfying answer is retrieved, visitors are invited to connect to an agent for real-time interaction.&#xD;
+- All chat conversations are recorded in one seamless timeline in the Casengo application.&#xD;
+- Basic reporting.&#xD;
+&#xD;
+Apart from the plugin, the Casengo software that tracks your chat conversations also offers:&#xD;
+- social media monitoring&#xD;
+- email management &#xD;
+- call management&#xD;
+- customer support portal&#xD;
+</description>
+    <notes>This is the first release of the extension.&#xD;
+The extension depends on the existence of the block named 'Mage_Page_Block_Html_Footer'. If this block does not exist the chat button will simply not appear, other functionality is not hampered.&#xD;
+</notes>
+    <authors><author><name>Casengo Corporate</name><user>Casengo</user><email>support@casengo.com</email></author><author><name>Ivan Krumov</name><user>ikrumov</user><email>ikrumov@livecom.net</email></author><author><name>Dadepo Aderemi</name><user>dadepo</user><email>dadepo@gmail.com</email></author></authors>
+    <date>2013-01-17</date>
+    <time>17:21:54</time>
+    <contents><target name="magelocal"><dir name="C:"><dir name="Users"><dir name="dparker"><dir name="Documents"><dir name="Casengo Plugin for Magento"><dir name="etc"><dir name="modules"><file name="Casengo_Plugin.xml" hash=""/></dir></dir></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

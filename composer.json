@@ -1,0 +1,17 @@
+{
+    "name": "OpenMageModuleFostering/Casengo_Chat_Widget",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License",
+    "homepage": "",
+    "description": "This plugin adds the Casengo chat widget to every page of your Magento website or blog.
+",
+    "authors": [
+    {
+        "name": "Casengo Corporate",
+        "email": "support@casengo.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
